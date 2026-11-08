@@ -145,7 +145,7 @@ if go_("05-persistence") :
     fig.add_trace(go.Scatter(x=[1, 60], y=[bt_.bootstrap_pair_noise_floor_median] * 2, mode="lines", line=dict(color=PALETTE[1], width=2, dash="dash"), name="Same-window bootstrap overlap (reference)",
                              hovertemplate="Two bootstrap resamples of one 252-day window (reference, not a null): median Jaccard %{y:.2f}<extra></extra>"))
     fig.update_layout(**BASE, height=460, margin=dict(l=56, r=16, t=16, b=50), xaxis=dict(title="Months between the two windows", type="log", tickvals=[1, 3, 6, 12, 24, 60], ticktext=["1", "3", "6", "12", "24", "60"], **AX),
-                      yaxis=dict(title="Share of MST edges in common (Jaccard)", range=[0, 0.8], **AX), legend=dict(orientation="h", x=0, y=1.22, font=dict(size=11)))
+                      yaxis=dict(title="MST edge overlap (Jaccard index)", range=[0, 0.8], **AX), legend=dict(orientation="h", x=0, y=1.22, font=dict(size=11)))
     out(fig, "05-persistence", (1100, 560))
 
 if go_("06-edge-reliability"):
@@ -163,7 +163,7 @@ if go_("06-edge-reliability"):
 
 if go_("07-window-and-recoverability"):
     syn = pd.read_csv(R / "synthetic_recoverability.csv")
-    fig = make_subplots(rows=2, cols=1, subplot_titles=["Real data: MST edges shared (Jaccard)", "SYNTHETIC: planted blocks recovered (ARI)"], vertical_spacing=.2)
+    fig = make_subplots(rows=2, cols=1, subplot_titles=["Real data: MST edge overlap (Jaccard index)", "SYNTHETIC: planted blocks recovered (ARI)"], vertical_spacing=.2)
     for i, y in enumerate(["2008", "2017", "2024"]):
         m = pd.read_csv(R / f"window_length_jaccard_{y}.csv", index_col=0)
         pairs = [("126 vs 252", m.loc[126, "252"]), ("252 vs 504", m.loc[252, "504"]), ("126 vs 504", m.loc[126, "504"])]
