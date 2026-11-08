@@ -1,0 +1,97 @@
+2008 {'window_end': '2008-12-31', 'bootstrap_vs_original_median': 0.3602693602693603, 'bootstrap_vs_original_p10': 0.26210669781931467, 'bootstrap_vs_original_p90': 0.4744525547445255, 'bootstrap_pair_noise_floor_median': 0.27044025157232704, 'bootstrap_pair_p10': 0.1771597583132632, 'bootstrap_pair_p90': 0.3694915254237288, 'previous_nonoverlapping_window': 0.13165266106442577, 'shift_1d_overlap_0.996': 0.9423076923076923, 'shift_21d_overlap_0.917': 0.6557377049180327, 'shift_63d_overlap_0.750': 0.29073482428115016, 'shift_126d_overlap_0.500': 0.19881305637982197, 'shift_252d_overlap_0.000': 0.13165266106442577} 13
+2017 {'window_end': '2017-12-29', 'bootstrap_vs_original_median': 0.43009297546550385, 'bootstrap_vs_original_p10': 0.35570469798657717, 'bootstrap_vs_original_p90': 0.5074626865671642, 'bootstrap_pair_noise_floor_median': 0.3202614379084967, 'bootstrap_pair_p10': 0.26210669781931467, 'bootstrap_pair_p90': 0.4225352112676056, 'previous_nonoverlapping_window': 0.1744186046511628, 'shift_1d_overlap_0.996': 1.0, 'shift_21d_overlap_0.917': 0.6489795918367347, 'shift_63d_overlap_0.750': 0.38831615120274915, 'shift_126d_overlap_0.500': 0.32459016393442625, 'shift_252d_overlap_0.000': 0.1744186046511628} 25
+2024 {'window_end': '2024-12-30', 'bootstrap_vs_original_median': 0.38831615120274915, 'bootstrap_vs_original_p10': 0.32459016393442625, 'bootstrap_vs_original_p90': 0.47985347985347987, 'bootstrap_pair_noise_floor_median': 0.3074433656957929, 'bootstrap_pair_p10': 0.24614860259032037, 'bootstrap_pair_p90': 0.379311795782879, 'previous_nonoverlapping_window': 0.21686746987951808, 'shift_1d_overlap_0.996': 0.9516908212560387, 'shift_21d_overlap_0.917': 0.6833333333333333, 'shift_63d_overlap_0.750': 0.4225352112676056, 'shift_126d_overlap_0.500': 0.3074433656957929, 'shift_252d_overlap_0.000': 0.21686746987951808} 38
+steiner 2008 144
+steiner 2017 231
+steiner 2024 334
+    window_end                                                    tree    cost  edges  intermediates  cost_vs_mst_subtree  edges_in_mst                                                                                 intermediate_nodes
+0   2008-12-31                     MST subtree (exact, inside the MST)  12.413     20             13                1.000            20                                                 AEE;AXP;BEN;COF;CSCO;D;DIS;EFX;EMR;ITW;PFE;USB;XEL
+1   2008-12-31                                 Steiner on PMFG (exact)   9.205     14              7                0.742             6                                                                       AEE;BAC;BEN;COF;CSCO;DIS;ITW
+2   2008-12-31                  Steiner on full distance graph (exact)   5.407      7              0                0.436             1                                                                                                   
+3   2008-12-31  Terminals only (MST of the 8 stocks, no intermediates)   5.407      7              0                0.436             1                                                                                                   
+4   2017-12-29                     MST subtree (exact, inside the MST)  26.798     29             22                1.000            29           AMAT;AMGN;BAC;BEN;CLX;COP;DOV;DUK;ITW;KMB;KO;LOW;MO;PAYX;PEP;PFE;PFG;PH;PRU;SCHW;SNA;TXN
+5   2017-12-29                                 Steiner on PMFG (exact)  17.450     18             11                0.651             8                                                        AMGN;BAC;COP;DUK;IFF;ITW;KEY;KMB;PH;PRU;TXN
+6   2017-12-29                  Steiner on full distance graph (exact)   8.690      7              0                0.324             0                                                                                                   
+7   2017-12-29  Terminals only (MST of the 8 stocks, no intermediates)   8.690      7              0                0.324             0                                                                                                   
+8   2024-12-30                     MST subtree (exact, inside the MST)  26.580     33             26                1.000            33  CL;CMS;DOV;DTE;DUK;DVN;ED;EMN;EQR;ETN;GS;HAL;ITW;KO;LOW;MAS;MSFT;NI;OXY;PH;PPG;PPL;SLB;SPG;SWK;WY
+9   2024-12-30                                 Steiner on PMFG (exact)  14.104     16              9                0.531             4                                                                 ADSK;CVX;DOV;ED;EQR;GS;HES;MAS;PPL
+10  2024-12-30                  Steiner on full distance graph (exact)   7.942      7              0                0.299             0                                                                                                   
+11  2024-12-30  Terminals only (MST of the 8 stocks, no intermediates)   7.942      7              0                0.299             0                                                                                                   
+{
+ "one random stock from each of the 8 named sectors": {
+  "n": 300,
+  "pmfg_over_mst_median": 0.5538371120129517,
+  "pmfg_over_mst_p10": 0.5119581843949784,
+  "pmfg_over_mst_p90": 0.6021696370557914,
+  "full_over_mst_median": 0.25471705076586243,
+  "full_over_mst_p10": 0.22474509403314244,
+  "full_over_mst_p90": 0.2894394661186774,
+  "full_over_terminals_only_median": 1.0,
+  "inter_mst_median": 32.0,
+  "inter_mst_p10": 27.0,
+  "inter_mst_p90": 38.0,
+  "inter_pmfg_median": 13.0,
+  "inter_full_median": 0.0,
+  "inter_full_p10": 0.0,
+  "inter_full_p90": 0.0,
+  "share_pmfg_equals_mst_cost": 0.0
+ },
+ "random 8 stocks": {
+  "n": 300,
+  "pmfg_over_mst_median": 0.5600381353847563,
+  "pmfg_over_mst_p10": 0.511319462230247,
+  "pmfg_over_mst_p90": 0.6118446451709662,
+  "full_over_mst_median": 0.27407736207176564,
+  "full_over_mst_p10": 0.23404427351582827,
+  "full_over_mst_p90": 0.3199298548783296,
+  "full_over_terminals_only_median": 1.0,
+  "inter_mst_median": 28.0,
+  "inter_mst_p10": 22.0,
+  "inter_mst_p90": 35.0,
+  "inter_pmfg_median": 11.0,
+  "inter_full_median": 0.0,
+  "inter_full_p10": 0.0,
+  "inter_full_p90": 0.0,
+  "share_pmfg_equals_mst_cost": 0.0
+ }
+}
+                             design  cost_mst  cost_pmfg  cost_full  cost_terminals_only  inter_mst  inter_pmfg  inter_full
+600  predetermined set without AAPL    23.803     11.907      6.684                6.684         24           8           0
+601   predetermined set without JPM    25.033     12.557      6.943                6.943         25           8           0
+602   predetermined set without XOM    22.864     11.948      6.790                6.790         22           7           0
+603   predetermined set without JNJ    25.583     13.107      6.878                6.878         26           9           0
+604    predetermined set without PG    23.799     13.021      6.875                6.875         24           9           0
+605   predetermined set without CAT    26.580     14.104      7.104                7.104         27          10           0
+606    predetermined set without HD    26.029     14.092      6.834                6.834         26          10           0
+607    predetermined set without SO    25.291     13.401      6.987                6.987         25           9           0
+{
+ "B": 200,
+ "block": 21,
+ "mst_subtree": {
+  "edge_jaccard_median": 0.284366576819407,
+  "cost_p10": 22.690432061406252,
+  "cost_median": 26.576703742575866,
+  "cost_p90": 30.245725639107945,
+  "base_cost": 26.579846276360218,
+  "intermediate_frequency": {
+   "LOW": 0.985,
+   "PH": 0.935,
+   "MSFT": 0.905,
+   "DVN": 0.9,
+   "PPL": 0.87,
+   "ETN": 0.825,
+   "HAL": 0.8,
+   "GS": 0.75,
+   "MAS": 0.735,
+   "CL": 0.725
+  }
+ },
+ "full_steiner": {
+  "edge_jaccard_median": 0.75,
+  "cost_p10": 7.719543518068111,
+  "cost_median": 7.884169216857394,
+  "cost_p90": 8.043481091017394,
+  "base_cost": 7.942389146964428,
+  "intermediate_frequency": {}
+ }
+} 390

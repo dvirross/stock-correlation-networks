@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+networkx>=3.2
+plotly>=6.0
+jupyterlab>=4.0          # to execute the notebook
+# optional: kaleido>=1.0 (plus a local Chrome/Chromium; set BROWSER_PATH) for static PNG fallbacks, yfinance for local data retrieval, pytest for tests
+pytest>=8

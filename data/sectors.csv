@@ -1,0 +1,204 @@
+ticker,sector,source
+A,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AAPL,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ABT,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ADBE,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ADI,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ADM,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ADP,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ADSK,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AEE,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AEP,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AES,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AFL,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AIG,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ALL,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AMAT,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AMGN,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AON,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+APA,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+APD,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AVY,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AXP,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+AZO,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+BA,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+BAC,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+BAX,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+BBY,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+BDX,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+BEN,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+BK,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+BMY,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+BSX,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+C,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CAG,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CAH,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CAT,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CB,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CCL,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CI,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CINF,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CL,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CLX,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CMCSA,Communication Services,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CMI,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CMS,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CNP,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+COF,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+COP,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+COST,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CPB,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CSCO,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CSX,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CTAS,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CVS,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+CVX,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+D,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+DE,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+DGX,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+DIS,Communication Services,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+DOV,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+DRI,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+DTE,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+DUK,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+DVN,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+EA,Communication Services,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+EBAY,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ECL,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ED,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+EFX,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+EIX,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+EMN,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+EMR,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+EOG,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+EQR,Real Estate,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ETN,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ETR,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+EXC,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+F,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+FCX,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+FDX,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+FE,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+FITB,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+GD,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+GE,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+GIS,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+GLW,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+GPC,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+GS,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+GWW,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HAL,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HAS,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HBAN,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HD,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HES,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HIG,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HON,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HPQ,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HSY,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+HUM,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+IBM,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+IFF,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+INTC,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+INTU,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+IP,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+IPG,Communication Services,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ITW,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+JNJ,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+JPM,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+K,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+KEY,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+KLAC,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+KMB,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+KO,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+KR,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+L,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+LLY,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+LMT,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+LOW,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+LUV,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MAR,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MAS,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MCD,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MCK,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MCO,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MDT,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MET,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MMC,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MMM,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MO,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MRK,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MS,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MSFT,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MSI,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+MU,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NEE,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NEM,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NI,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NKE,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NOC,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NSC,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NTAP,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NTRS,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NUE,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+NVDA,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+OMC,Communication Services,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ORCL,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+OXY,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PAYX,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PCAR,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PEG,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PEP,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PFE,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PFG,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PG,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PGR,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PH,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PHM,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PNC,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PNW,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PPG,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PPL,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+PRU,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+QCOM,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+RF,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ROK,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SBUX,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SCHW,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SHW,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SLB,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SNA,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SO,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SPG,Real Estate,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SPGI,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SRE,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+STT,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SWK,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SYK,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+SYY,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+T,Communication Services,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+TAP,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+TGT,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+TJX,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+TMO,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+TROW,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+TRV,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+TXN,Information Technology,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+TXT,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+UNH,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+UNP,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+UPS,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+USB,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+VMC,Materials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+VZ,Communication Services,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+WAT,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+WBA,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+WFC,Financials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+WM,Industrials,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+WMB,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+WMT,Consumer Staples,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+WY,Real Estate,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+XEL,Utilities,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+XOM,Energy,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+YUM,Consumer Discretionary,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date
+ZBH,Health Care,GICS sector; agrees with datasets/s-and-p-500-companies constituents of 2024-12-27 (see derived/sector_verification.csv); not point-in-time before that date

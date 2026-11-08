@@ -1,0 +1,22 @@
+{
+  "members_2003_01_06": 458,
+  "continuous_members": 205,
+  "panel": 203,
+  "status_counts": {
+    "panel": 203,
+    "excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)": 106,
+    "excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)": 62,
+    "excluded: partial history (starts late or ends early; listing and dates in the audit table)": 57,
+    "excluded: Drive file under 100 KB (about a year or less of history), not downloaded": 28,
+    "excluded: suspected corporate-action artifact (+61% on 2016-07-05, around the Fortive spin-off)": 1,
+    "excluded: suspected unadjusted corporate action (-53% on 2007-07-02, consistent with the 2-for-1 split)": 1
+  },
+  "n_dates": 5536,
+  "first": "2003-01-02",
+  "last": "2024-12-30",
+  "missing_share_max": 0.0,
+  "tickers_with_any_missing": 0,
+  "suspect_jumps": 25,
+  "suspect_jumps_reversed": 0,
+  "stale_run_max": 4
+}

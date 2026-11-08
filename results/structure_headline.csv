@@ -1,0 +1,4 @@
+graph,edges,mean_degree,max_degree,triangles,transitivity,components,giant_share,mean_path_giant,same_sector_edge_share,same_sector_null,same_sector_perm_p,sector_assortativity,community_count,ari_vs_sector,modularity_sector
+MST,202,1.9901,11,0,0.0,1,1.0,12.4654,0.7129,0.1105,0.001,0.672,13,0.2569,0.6288
+PMFG,603,5.9409,26,601,0.3954,1,1.0,5.6878,0.5871,0.1116,0.001,0.5257,8,0.293,0.5065
+Fixed density (3N-6 edges),603,5.9409,26,2314,0.7918,81,0.4631,4.6012,0.9022,0.1115,0.001,0.8638,84,0.4764,0.6301

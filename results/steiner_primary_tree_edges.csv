@@ -1,0 +1,173 @@
+window_end,tree,u,v,distance
+2008-12-31,"MST subtree (exact, inside the MST)",AAPL,CSCO,0.818737
+2008-12-31,"MST subtree (exact, inside the MST)",AEE,D,0.535933
+2008-12-31,"MST subtree (exact, inside the MST)",AEE,JNJ,0.642405
+2008-12-31,"MST subtree (exact, inside the MST)",AEE,XEL,0.493016
+2008-12-31,"MST subtree (exact, inside the MST)",AXP,BEN,0.631395
+2008-12-31,"MST subtree (exact, inside the MST)",AXP,COF,0.589764
+2008-12-31,"MST subtree (exact, inside the MST)",BEN,EFX,0.658655
+2008-12-31,"MST subtree (exact, inside the MST)",BEN,HD,0.682221
+2008-12-31,"MST subtree (exact, inside the MST)",CAT,EMR,0.590752
+2008-12-31,"MST subtree (exact, inside the MST)",COF,USB,0.600778
+2008-12-31,"MST subtree (exact, inside the MST)",CSCO,DIS,0.653573
+2008-12-31,"MST subtree (exact, inside the MST)",CSCO,EFX,0.641064
+2008-12-31,"MST subtree (exact, inside the MST)",D,XOM,0.637087
+2008-12-31,"MST subtree (exact, inside the MST)",DIS,PFE,0.636112
+2008-12-31,"MST subtree (exact, inside the MST)",EFX,ITW,0.601113
+2008-12-31,"MST subtree (exact, inside the MST)",EMR,ITW,0.623325
+2008-12-31,"MST subtree (exact, inside the MST)",JNJ,PG,0.633145
+2008-12-31,"MST subtree (exact, inside the MST)",JPM,USB,0.547282
+2008-12-31,"MST subtree (exact, inside the MST)",PFE,PG,0.649732
+2008-12-31,"MST subtree (exact, inside the MST)",SO,XEL,0.546941
+2008-12-31,Steiner on PMFG (exact),JNJ,PG,0.633145
+2008-12-31,Steiner on PMFG (exact),JNJ,AEE,0.642405
+2008-12-31,Steiner on PMFG (exact),PG,DIS,0.69302
+2008-12-31,Steiner on PMFG (exact),DIS,CSCO,0.653573
+2008-12-31,Steiner on PMFG (exact),BEN,COF,0.639551
+2008-12-31,Steiner on PMFG (exact),BEN,CSCO,0.667624
+2008-12-31,Steiner on PMFG (exact),BEN,HD,0.682221
+2008-12-31,Steiner on PMFG (exact),BEN,ITW,0.702139
+2008-12-31,Steiner on PMFG (exact),BAC,JPM,0.523858
+2008-12-31,Steiner on PMFG (exact),BAC,COF,0.618578
+2008-12-31,Steiner on PMFG (exact),CSCO,AAPL,0.818737
+2008-12-31,Steiner on PMFG (exact),ITW,CAT,0.654245
+2008-12-31,Steiner on PMFG (exact),AEE,SO,0.580918
+2008-12-31,Steiner on PMFG (exact),AEE,XOM,0.695186
+2008-12-31,Steiner on full distance graph (exact),CAT,XOM,0.776793
+2008-12-31,Steiner on full distance graph (exact),CAT,HD,0.853252
+2008-12-31,Steiner on full distance graph (exact),CAT,AAPL,0.933309
+2008-12-31,Steiner on full distance graph (exact),HD,JPM,0.775555
+2008-12-31,Steiner on full distance graph (exact),JNJ,PG,0.633145
+2008-12-31,Steiner on full distance graph (exact),PG,XOM,0.721028
+2008-12-31,Steiner on full distance graph (exact),XOM,SO,0.713994
+2008-12-31,"Terminals only (MST of the 8 stocks, no intermediates)",AAPL,CAT,0.933309
+2008-12-31,"Terminals only (MST of the 8 stocks, no intermediates)",JPM,HD,0.775555
+2008-12-31,"Terminals only (MST of the 8 stocks, no intermediates)",XOM,SO,0.713994
+2008-12-31,"Terminals only (MST of the 8 stocks, no intermediates)",XOM,PG,0.721028
+2008-12-31,"Terminals only (MST of the 8 stocks, no intermediates)",XOM,CAT,0.776793
+2008-12-31,"Terminals only (MST of the 8 stocks, no intermediates)",JNJ,PG,0.633145
+2008-12-31,"Terminals only (MST of the 8 stocks, no intermediates)",CAT,HD,0.853252
+2017-12-29,"MST subtree (exact, inside the MST)",AAPL,AMAT,1.024557
+2017-12-29,"MST subtree (exact, inside the MST)",AMAT,TXN,0.822339
+2017-12-29,"MST subtree (exact, inside the MST)",AMGN,BEN,1.125931
+2017-12-29,"MST subtree (exact, inside the MST)",AMGN,PFE,1.056139
+2017-12-29,"MST subtree (exact, inside the MST)",BAC,JPM,0.436992
+2017-12-29,"MST subtree (exact, inside the MST)",BAC,PRU,0.651165
+2017-12-29,"MST subtree (exact, inside the MST)",BAC,SCHW,0.682398
+2017-12-29,"MST subtree (exact, inside the MST)",BEN,SCHW,0.857227
+2017-12-29,"MST subtree (exact, inside the MST)",CAT,PH,0.907648
+2017-12-29,"MST subtree (exact, inside the MST)",CLX,KMB,0.800014
+2017-12-29,"MST subtree (exact, inside the MST)",CLX,PEP,0.982303
+2017-12-29,"MST subtree (exact, inside the MST)",COP,DOV,1.060516
+2017-12-29,"MST subtree (exact, inside the MST)",COP,XOM,0.887333
+2017-12-29,"MST subtree (exact, inside the MST)",DOV,PH,0.916075
+2017-12-29,"MST subtree (exact, inside the MST)",DUK,KO,1.070149
+2017-12-29,"MST subtree (exact, inside the MST)",DUK,SO,0.72733
+2017-12-29,"MST subtree (exact, inside the MST)",HD,LOW,0.793826
+2017-12-29,"MST subtree (exact, inside the MST)",ITW,PAYX,1.088603
+2017-12-29,"MST subtree (exact, inside the MST)",ITW,PH,0.922335
+2017-12-29,"MST subtree (exact, inside the MST)",ITW,TXN,1.053958
+2017-12-29,"MST subtree (exact, inside the MST)",JNJ,PFE,1.094856
+2017-12-29,"MST subtree (exact, inside the MST)",KMB,MO,1.117132
+2017-12-29,"MST subtree (exact, inside the MST)",KMB,PG,0.973315
+2017-12-29,"MST subtree (exact, inside the MST)",KO,PEP,0.859106
+2017-12-29,"MST subtree (exact, inside the MST)",LOW,SNA,1.072653
+2017-12-29,"MST subtree (exact, inside the MST)",MO,PAYX,1.115873
+2017-12-29,"MST subtree (exact, inside the MST)",PFG,PH,0.98337
+2017-12-29,"MST subtree (exact, inside the MST)",PFG,PRU,0.684811
+2017-12-29,"MST subtree (exact, inside the MST)",SCHW,SNA,1.030473
+2017-12-29,Steiner on PMFG (exact),AMGN,JNJ,1.181355
+2017-12-29,Steiner on PMFG (exact),AMGN,BAC,1.183243
+2017-12-29,Steiner on PMFG (exact),IFF,ITW,1.125925
+2017-12-29,Steiner on PMFG (exact),IFF,DUK,1.193262
+2017-12-29,Steiner on PMFG (exact),IFF,KMB,1.237343
+2017-12-29,Steiner on PMFG (exact),KMB,PG,0.973315
+2017-12-29,Steiner on PMFG (exact),BAC,JPM,0.436992
+2017-12-29,Steiner on PMFG (exact),BAC,KEY,0.609709
+2017-12-29,Steiner on PMFG (exact),BAC,PRU,0.651165
+2017-12-29,Steiner on PMFG (exact),COP,XOM,0.887333
+2017-12-29,Steiner on PMFG (exact),COP,PH,1.131927
+2017-12-29,Steiner on PMFG (exact),ITW,PH,0.922335
+2017-12-29,Steiner on PMFG (exact),ITW,PRU,0.998519
+2017-12-29,Steiner on PMFG (exact),ITW,TXN,1.053958
+2017-12-29,Steiner on PMFG (exact),PH,CAT,0.907648
+2017-12-29,Steiner on PMFG (exact),AAPL,TXN,1.035046
+2017-12-29,Steiner on PMFG (exact),DUK,SO,0.72733
+2017-12-29,Steiner on PMFG (exact),KEY,HD,1.193811
+2017-12-29,Steiner on full distance graph (exact),JPM,CAT,1.123996
+2017-12-29,Steiner on full distance graph (exact),JPM,XOM,1.178419
+2017-12-29,Steiner on full distance graph (exact),JPM,HD,1.250063
+2017-12-29,Steiner on full distance graph (exact),JPM,AAPL,1.266199
+2017-12-29,Steiner on full distance graph (exact),XOM,PG,1.270533
+2017-12-29,Steiner on full distance graph (exact),JNJ,PG,1.296511
+2017-12-29,Steiner on full distance graph (exact),JNJ,SO,1.303956
+2017-12-29,"Terminals only (MST of the 8 stocks, no intermediates)",AAPL,JPM,1.266199
+2017-12-29,"Terminals only (MST of the 8 stocks, no intermediates)",JPM,CAT,1.123996
+2017-12-29,"Terminals only (MST of the 8 stocks, no intermediates)",JPM,XOM,1.178419
+2017-12-29,"Terminals only (MST of the 8 stocks, no intermediates)",JPM,HD,1.250063
+2017-12-29,"Terminals only (MST of the 8 stocks, no intermediates)",XOM,PG,1.270533
+2017-12-29,"Terminals only (MST of the 8 stocks, no intermediates)",JNJ,PG,1.296511
+2017-12-29,"Terminals only (MST of the 8 stocks, no intermediates)",JNJ,SO,1.303956
+2024-12-30,"MST subtree (exact, inside the MST)",AAPL,MSFT,1.026178
+2024-12-30,"MST subtree (exact, inside the MST)",CAT,GS,0.879409
+2024-12-30,"MST subtree (exact, inside the MST)",CAT,PH,0.820287
+2024-12-30,"MST subtree (exact, inside the MST)",CAT,SLB,0.990907
+2024-12-30,"MST subtree (exact, inside the MST)",CL,KO,0.97777
+2024-12-30,"MST subtree (exact, inside the MST)",CL,PG,0.814534
+2024-12-30,"MST subtree (exact, inside the MST)",CMS,DTE,0.524178
+2024-12-30,"MST subtree (exact, inside the MST)",CMS,ED,0.579985
+2024-12-30,"MST subtree (exact, inside the MST)",CMS,KO,0.988614
+2024-12-30,"MST subtree (exact, inside the MST)",DOV,ITW,0.886192
+2024-12-30,"MST subtree (exact, inside the MST)",DOV,PH,0.773256
+2024-12-30,"MST subtree (exact, inside the MST)",DTE,PPL,0.599273
+2024-12-30,"MST subtree (exact, inside the MST)",DUK,ED,0.651287
+2024-12-30,"MST subtree (exact, inside the MST)",DUK,SO,0.637735
+2024-12-30,"MST subtree (exact, inside the MST)",DVN,HAL,0.698349
+2024-12-30,"MST subtree (exact, inside the MST)",DVN,OXY,0.6208
+2024-12-30,"MST subtree (exact, inside the MST)",ED,JNJ,0.997035
+2024-12-30,"MST subtree (exact, inside the MST)",EMN,PPG,0.92684
+2024-12-30,"MST subtree (exact, inside the MST)",EMN,SWK,0.967838
+2024-12-30,"MST subtree (exact, inside the MST)",EQR,NI,0.966032
+2024-12-30,"MST subtree (exact, inside the MST)",EQR,SPG,0.917413
+2024-12-30,"MST subtree (exact, inside the MST)",ETN,MSFT,0.984605
+2024-12-30,"MST subtree (exact, inside the MST)",ETN,PH,0.766433
+2024-12-30,"MST subtree (exact, inside the MST)",GS,JPM,0.667145
+2024-12-30,"MST subtree (exact, inside the MST)",HAL,SLB,0.702386
+2024-12-30,"MST subtree (exact, inside the MST)",HD,LOW,0.550412
+2024-12-30,"MST subtree (exact, inside the MST)",ITW,PPG,0.922394
+2024-12-30,"MST subtree (exact, inside the MST)",LOW,MAS,0.719543
+2024-12-30,"MST subtree (exact, inside the MST)",LOW,WY,0.839778
+2024-12-30,"MST subtree (exact, inside the MST)",MAS,SWK,0.897131
+2024-12-30,"MST subtree (exact, inside the MST)",NI,PPL,0.611355
+2024-12-30,"MST subtree (exact, inside the MST)",OXY,XOM,0.703512
+2024-12-30,"MST subtree (exact, inside the MST)",SPG,WY,0.971242
+2024-12-30,Steiner on PMFG (exact),ED,PPL,0.65449
+2024-12-30,Steiner on PMFG (exact),ED,JNJ,0.997035
+2024-12-30,Steiner on PMFG (exact),ED,PG,1.082986
+2024-12-30,Steiner on PMFG (exact),CVX,HES,0.324308
+2024-12-30,Steiner on PMFG (exact),CVX,XOM,0.748143
+2024-12-30,Steiner on PMFG (exact),EQR,PPL,1.018354
+2024-12-30,Steiner on PMFG (exact),EQR,HD,1.059162
+2024-12-30,Steiner on PMFG (exact),HD,MAS,0.775591
+2024-12-30,Steiner on PMFG (exact),MAS,DOV,0.968848
+2024-12-30,Steiner on PMFG (exact),PPL,SO,0.703401
+2024-12-30,Steiner on PMFG (exact),ADSK,DOV,1.036369
+2024-12-30,Steiner on PMFG (exact),ADSK,AAPL,1.160969
+2024-12-30,Steiner on PMFG (exact),DOV,CAT,0.943994
+2024-12-30,Steiner on PMFG (exact),CAT,GS,0.879409
+2024-12-30,Steiner on PMFG (exact),CAT,HES,1.083766
+2024-12-30,Steiner on PMFG (exact),GS,JPM,0.667145
+2024-12-30,Steiner on full distance graph (exact),CAT,JPM,1.003212
+2024-12-30,Steiner on full distance graph (exact),CAT,HD,1.12739
+2024-12-30,Steiner on full distance graph (exact),CAT,XOM,1.152717
+2024-12-30,Steiner on full distance graph (exact),HD,AAPL,1.258009
+2024-12-30,Steiner on full distance graph (exact),JPM,JNJ,1.265357
+2024-12-30,Steiner on full distance graph (exact),JNJ,SO,1.068148
+2024-12-30,Steiner on full distance graph (exact),SO,PG,1.067558
+2024-12-30,"Terminals only (MST of the 8 stocks, no intermediates)",AAPL,HD,1.258009
+2024-12-30,"Terminals only (MST of the 8 stocks, no intermediates)",JPM,CAT,1.003212
+2024-12-30,"Terminals only (MST of the 8 stocks, no intermediates)",JPM,JNJ,1.265357
+2024-12-30,"Terminals only (MST of the 8 stocks, no intermediates)",XOM,CAT,1.152717
+2024-12-30,"Terminals only (MST of the 8 stocks, no intermediates)",JNJ,SO,1.068148
+2024-12-30,"Terminals only (MST of the 8 stocks, no intermediates)",PG,SO,1.067558
+2024-12-30,"Terminals only (MST of the 8 stocks, no intermediates)",CAT,HD,1.12739

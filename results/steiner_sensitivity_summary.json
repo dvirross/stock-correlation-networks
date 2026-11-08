@@ -1,0 +1,120 @@
+{
+  "one random stock from each of the 8 named sectors": {
+    "n": 300,
+    "pmfg_over_mst_median": 0.5538371120129517,
+    "pmfg_over_mst_p10": 0.5119581843949784,
+    "pmfg_over_mst_p90": 0.6021696370557914,
+    "full_over_mst_median": 0.25471705076586243,
+    "full_over_mst_p10": 0.22474509403314244,
+    "full_over_mst_p90": 0.2894394661186774,
+    "full_over_terminals_only_median": 1.0,
+    "inter_mst_median": 32.0,
+    "inter_mst_p10": 27.0,
+    "inter_mst_p90": 38.0,
+    "inter_pmfg_median": 13.0,
+    "inter_full_median": 0.0,
+    "inter_full_p10": 0.0,
+    "inter_full_p90": 0.0,
+    "share_pmfg_equals_mst_cost": 0.0
+  },
+  "random 8 stocks": {
+    "n": 300,
+    "pmfg_over_mst_median": 0.5600381353847563,
+    "pmfg_over_mst_p10": 0.511319462230247,
+    "pmfg_over_mst_p90": 0.6118446451709662,
+    "full_over_mst_median": 0.27407736207176564,
+    "full_over_mst_p10": 0.23404427351582827,
+    "full_over_mst_p90": 0.3199298548783296,
+    "full_over_terminals_only_median": 1.0,
+    "inter_mst_median": 28.0,
+    "inter_mst_p10": 22.0,
+    "inter_mst_p90": 35.0,
+    "inter_pmfg_median": 11.0,
+    "inter_full_median": 0.0,
+    "inter_full_p10": 0.0,
+    "inter_full_p90": 0.0,
+    "share_pmfg_equals_mst_cost": 0.0
+  },
+  "leave_one_terminal_out": [
+    {
+      "design": "predetermined set without AAPL",
+      "cost_mst": 23.8026,
+      "cost_pmfg": 11.9066,
+      "cost_full": 6.6844,
+      "cost_terminals_only": 6.6844,
+      "inter_mst": 24,
+      "inter_pmfg": 8,
+      "inter_full": 0
+    },
+    {
+      "design": "predetermined set without JPM",
+      "cost_mst": 25.0333,
+      "cost_pmfg": 12.5574,
+      "cost_full": 6.9429,
+      "cost_terminals_only": 6.9429,
+      "inter_mst": 25,
+      "inter_pmfg": 8,
+      "inter_full": 0
+    },
+    {
+      "design": "predetermined set without XOM",
+      "cost_mst": 22.8639,
+      "cost_pmfg": 11.9478,
+      "cost_full": 6.7897,
+      "cost_terminals_only": 6.7897,
+      "inter_mst": 22,
+      "inter_pmfg": 7,
+      "inter_full": 0
+    },
+    {
+      "design": "predetermined set without JNJ",
+      "cost_mst": 25.5828,
+      "cost_pmfg": 13.1069,
+      "cost_full": 6.878,
+      "cost_terminals_only": 6.878,
+      "inter_mst": 26,
+      "inter_pmfg": 9,
+      "inter_full": 0
+    },
+    {
+      "design": "predetermined set without PG",
+      "cost_mst": 23.7989,
+      "cost_pmfg": 13.021,
+      "cost_full": 6.8748,
+      "cost_terminals_only": 6.8748,
+      "inter_mst": 24,
+      "inter_pmfg": 9,
+      "inter_full": 0
+    },
+    {
+      "design": "predetermined set without CAT",
+      "cost_mst": 26.5798,
+      "cost_pmfg": 14.104,
+      "cost_full": 7.1044,
+      "cost_terminals_only": 7.1044,
+      "inter_mst": 27,
+      "inter_pmfg": 10,
+      "inter_full": 0
+    },
+    {
+      "design": "predetermined set without HD",
+      "cost_mst": 26.0294,
+      "cost_pmfg": 14.0916,
+      "cost_full": 6.8341,
+      "cost_terminals_only": 6.8341,
+      "inter_mst": 26,
+      "inter_pmfg": 10,
+      "inter_full": 0
+    },
+    {
+      "design": "predetermined set without SO",
+      "cost_mst": 25.2908,
+      "cost_pmfg": 13.4006,
+      "cost_full": 6.9867,
+      "cost_terminals_only": 6.9867,
+      "inter_mst": 25,
+      "inter_pmfg": 9,
+      "inter_full": 0
+    }
+  ]
+}

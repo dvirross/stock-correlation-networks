@@ -1,0 +1,13 @@
+,estimator,graph,same_sector_edge_share,max_degree,triangles,edges,components
+0,pearson,MST,0.7129,11,0,202,1
+1,pearson,PMFG,0.5871,26,601,603,1
+2,pearson,Fixed density (3N-6 edges),0.9022,26,2314,603,81
+3,spearman,MST,0.7673,13,0,202,1
+4,spearman,PMFG,0.6584,22,599,603,1
+5,spearman,Fixed density (3N-6 edges),0.9171,25,2221,603,80
+6,kendall,MST,0.7673,13,0,202,1
+7,kendall,PMFG,0.67,24,596,603,1
+8,kendall,Fixed density (3N-6 edges),0.9171,25,2223,603,81
+9,pearson_market_residual,MST,0.7426,11,0,202,1
+10,pearson_market_residual,PMFG,0.607,23,601,603,1
+11,pearson_market_residual,Fixed density (3N-6 edges),0.8491,27,2006,603,68

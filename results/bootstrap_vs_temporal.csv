@@ -1,0 +1,4 @@
+window_end,bootstrap_vs_original_median,bootstrap_vs_original_p10,bootstrap_vs_original_p90,bootstrap_pair_noise_floor_median,bootstrap_pair_p10,bootstrap_pair_p90,previous_nonoverlapping_window,shift_1d_overlap_0.996,shift_21d_overlap_0.917,shift_63d_overlap_0.750,shift_126d_overlap_0.500,shift_252d_overlap_0.000
+2008-12-31,0.3603,0.2621,0.4745,0.2704,0.1772,0.3695,0.1317,0.9423,0.6557,0.2907,0.1988,0.1317
+2017-12-29,0.4301,0.3557,0.5075,0.3203,0.2621,0.4225,0.1744,1.0,0.649,0.3883,0.3246,0.1744
+2024-12-30,0.3883,0.3246,0.4799,0.3074,0.2461,0.3793,0.2169,0.9517,0.6833,0.4225,0.3074,0.2169

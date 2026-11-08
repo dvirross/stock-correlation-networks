@@ -1,0 +1,204 @@
+ticker,label_used,gics_last_snapshot,agrees,first_seen,last_seen,n_sector_changes,history
+A,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+AAPL,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+ABT,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+ADBE,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+ADI,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+ADM,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+ADP,Industrials,Industrials,True,2012-12-27,2024-12-27,1,2012-12-27: Information Technology; 2023-04-13: Industrials
+ADSK,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+AEE,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+AEP,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+AES,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+AFL,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+AIG,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+ALL,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+AMAT,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+AMGN,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+AON,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+APA,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+APD,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+AVY,Materials,Materials,True,2012-12-27,2024-12-27,1,2012-12-27: Industrials; 2014-12-07: Materials
+AXP,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+AZO,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+BA,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+BAC,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+BAX,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+BBY,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+BDX,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+BEN,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+BK,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+BMY,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+BSX,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+C,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+CAG,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+CAH,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+CAT,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+CB,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+CCL,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+CI,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+CINF,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+CL,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+CLX,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+CMCSA,Communication Services,Communication Services,True,2012-12-27,2024-12-27,1,2012-12-27: Consumer Discretionary; 2020-05-10: Communication Services
+CMI,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+CMS,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+CNP,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+COF,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+COP,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+COST,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+CPB,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+CSCO,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+CSX,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+CTAS,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+CVS,Health Care,Health Care,True,2012-12-27,2024-12-27,1,2012-12-27: Consumer Staples; 2020-05-10: Health Care
+CVX,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+D,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+DE,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+DGX,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+DIS,Communication Services,Communication Services,True,2012-12-27,2024-12-27,1,2012-12-27: Consumer Discretionary; 2020-05-10: Communication Services
+DOV,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+DRI,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+DTE,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+DUK,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+DVN,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+EA,Communication Services,Communication Services,True,2012-12-27,2024-12-27,1,2012-12-27: Information Technology; 2020-05-10: Communication Services
+EBAY,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,1,2012-12-27: Information Technology; 2020-05-10: Consumer Discretionary
+ECL,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+ED,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+EFX,Industrials,Industrials,True,2012-12-27,2024-12-27,3,2012-12-27: Financials; 2014-12-07: Industrials; 2016-02-23: Financials; 2017-03-08: Industrials
+EIX,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+EMN,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+EMR,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+EOG,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+EQR,Real Estate,Real Estate,True,2012-12-27,2024-12-27,1,2012-12-27: Financials; 2017-03-08: Real Estate
+ETN,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+ETR,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+EXC,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+F,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+FCX,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+FDX,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+FE,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+FITB,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+GD,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+GE,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+GIS,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+GLW,Information Technology,Information Technology,True,2012-12-27,2024-12-27,3,2012-12-27: Industrials; 2014-12-07: Information Technology; 2016-02-23: Industrials; 2017-03-08: Information Technology
+GPC,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+GS,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+GWW,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+HAL,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+HAS,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+HBAN,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+HD,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+HES,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+HIG,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+HON,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+HPQ,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+HSY,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+HUM,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+IBM,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+IFF,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+INTC,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+INTU,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+IP,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+IPG,Communication Services,Communication Services,True,2012-12-27,2024-12-27,1,2012-12-27: Consumer Discretionary; 2020-05-10: Communication Services
+ITW,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+JNJ,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+JPM,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+K,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+KEY,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+KLAC,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+KMB,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+KO,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+KR,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+L,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+LLY,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+LMT,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+LOW,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+LUV,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+MAR,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+MAS,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+MCD,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+MCK,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+MCO,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+MDT,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+MET,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+MMC,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+MMM,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+MO,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+MRK,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+MS,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+MSFT,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+MSI,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+MU,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+NEE,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+NEM,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+NI,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+NKE,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+NOC,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+NSC,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+NTAP,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+NTRS,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+NUE,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+NVDA,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+OMC,Communication Services,Communication Services,True,2012-12-27,2024-12-27,1,2012-12-27: Consumer Discretionary; 2020-05-10: Communication Services
+ORCL,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+OXY,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+PAYX,Industrials,Industrials,True,2012-12-27,2024-12-27,1,2012-12-27: Information Technology; 2023-04-13: Industrials
+PCAR,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+PEG,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+PEP,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+PFE,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+PFG,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+PG,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+PGR,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+PH,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+PHM,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+PNC,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+PNW,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+PPG,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+PPL,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+PRU,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+QCOM,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+RF,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+ROK,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+SBUX,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+SCHW,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+SHW,Materials,Materials,True,2012-12-27,2024-12-27,1,2012-12-27: Consumer Discretionary; 2014-12-07: Materials
+SLB,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+SNA,Industrials,Industrials,True,2012-12-27,2024-12-27,3,2012-12-27: Consumer Discretionary; 2014-12-07: Industrials; 2016-02-23: Consumer Discretionary; 2020-05-10: Industrials
+SO,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+SPG,Real Estate,Real Estate,True,2012-12-27,2024-12-27,1,2012-12-27: Financials; 2017-03-08: Real Estate
+SPGI,Financials,Financials,True,2016-06-12,2024-12-27,0,2016-06-12: Financials
+SRE,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+STT,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+SWK,Industrials,Industrials,True,2012-12-27,2024-12-27,3,2012-12-27: Consumer Discretionary; 2014-12-07: Industrials; 2016-02-23: Consumer Discretionary; 2020-05-10: Industrials
+SYK,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+SYY,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+T,Communication Services,Communication Services,True,2012-12-27,2024-12-27,4,2012-12-27: Telecommunications Services; 2014-12-07: Telecommunication Services; 2016-02-23: Telecommunications Services; 2018-04-02: Telecommunication Services; 2020-05-10: Communication Services
+TAP,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+TGT,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,1,2012-12-27: Consumer Discretionary; 2023-04-13: Consumer Staples
+TJX,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+TMO,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+TROW,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+TRV,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+TXN,Information Technology,Information Technology,True,2012-12-27,2024-12-27,0,2012-12-27: Information Technology
+TXT,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+UNH,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+UNP,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+UPS,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+USB,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+VMC,Materials,Materials,True,2012-12-27,2024-12-27,0,2012-12-27: Materials
+VZ,Communication Services,Communication Services,True,2012-12-27,2024-12-27,4,2012-12-27: Telecommunications Services; 2014-12-07: Telecommunication Services; 2016-02-23: Telecommunications Services; 2018-04-02: Telecommunication Services; 2020-05-10: Communication Services
+WAT,Health Care,Health Care,True,2012-12-27,2024-12-27,0,2012-12-27: Health Care
+WBA,Consumer Staples,Consumer Staples,True,2015-09-22,2024-12-27,0,2015-09-22: Consumer Staples
+WFC,Financials,Financials,True,2012-12-27,2024-12-27,0,2012-12-27: Financials
+WM,Industrials,Industrials,True,2012-12-27,2024-12-27,0,2012-12-27: Industrials
+WMB,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+WMT,Consumer Staples,Consumer Staples,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Staples
+WY,Real Estate,Real Estate,True,2012-12-27,2024-12-27,1,2012-12-27: Financials; 2017-03-08: Real Estate
+XEL,Utilities,Utilities,True,2012-12-27,2024-12-27,0,2012-12-27: Utilities
+XOM,Energy,Energy,True,2012-12-27,2024-12-27,0,2012-12-27: Energy
+YUM,Consumer Discretionary,Consumer Discretionary,True,2012-12-27,2024-12-27,0,2012-12-27: Consumer Discretionary
+ZBH,Health Care,Health Care,True,2015-09-22,2024-12-27,0,2015-09-22: Health Care

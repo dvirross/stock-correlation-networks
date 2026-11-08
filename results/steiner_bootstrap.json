@@ -1,0 +1,31 @@
+{
+  "B": 200,
+  "block": 21,
+  "mst_subtree": {
+    "edge_jaccard_median": 0.284366576819407,
+    "cost_p10": 22.690432061406252,
+    "cost_median": 26.576703742575866,
+    "cost_p90": 30.245725639107945,
+    "base_cost": 26.579846276360218,
+    "intermediate_frequency": {
+      "LOW": 0.985,
+      "PH": 0.935,
+      "MSFT": 0.905,
+      "DVN": 0.9,
+      "PPL": 0.87,
+      "ETN": 0.825,
+      "HAL": 0.8,
+      "GS": 0.75,
+      "MAS": 0.735,
+      "CL": 0.725
+    }
+  },
+  "full_steiner": {
+    "edge_jaccard_median": 0.75,
+    "cost_p10": 7.719543518068111,
+    "cost_median": 7.884169216857394,
+    "cost_p90": 8.043481091017394,
+    "base_cost": 7.942389146964428,
+    "intermediate_frequency": {}
+  }
+}

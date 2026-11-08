@@ -1,0 +1,5 @@
+,pearson,spearman,kendall,pearson_market_residual
+pearson,1.0,0.3975,0.3991,0.4323
+spearman,0.3975,1.0,0.7453,0.337
+kendall,0.3991,0.7453,1.0,0.3326
+pearson_market_residual,0.4323,0.337,0.3326,1.0

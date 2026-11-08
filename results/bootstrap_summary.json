@@ -1,0 +1,32 @@
+{
+  "MST": {
+    "edges": 202,
+    "median_inclusion": 0.5549999999999999,
+    "share_ge_90": 0.18316831683168316,
+    "share_ge_50": 0.5643564356435643,
+    "share_lt_25": 0.14356435643564355,
+    "median_incl_within_sector": 0.6566666666666666,
+    "median_incl_between_sector": 0.31833333333333336,
+    "corr_distance_inclusion": -0.5871729097324371,
+    "community_ari_median": 0.38870803420666333,
+    "community_ari_p10": 0.31636969334433473,
+    "community_ari_p90": 0.4901084975191595,
+    "n_boot": 300,
+    "block": 21
+  },
+  "Fixed density (3N-6 edges)": {
+    "edges": 603,
+    "median_inclusion": 0.9266666666666666,
+    "share_ge_90": 0.5356550580431177,
+    "share_ge_50": 0.8872305140961857,
+    "share_lt_25": 0.0,
+    "median_incl_within_sector": 0.95,
+    "median_incl_between_sector": 0.5866666666666667,
+    "corr_distance_inclusion": -0.7755373777538405,
+    "community_ari_median": 0.620897292105665,
+    "community_ari_p10": 0.5020780555046495,
+    "community_ari_p90": 0.7183191732450719,
+    "n_boot": 300,
+    "block": 21
+  }
+}

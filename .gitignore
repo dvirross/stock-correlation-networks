@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+data/panel_adjusted_close.csv
+results/solver_check.log
+data/raw/
+data/sp_500_historical_components.csv
+data/prices_adjusted_close.csv

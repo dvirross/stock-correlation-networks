@@ -1,0 +1,459 @@
+ticker,drive_file_size,member_continuous,downloaded,first,last,n_obs,valid_share_2003_2024,status
+A,514072.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AAMRQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+AAPL,526321.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ABC,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+ABI,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+ABKFQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+ABS,15409.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+ABT,516654.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ACV,219753.0,False,True,2015-05-21,2024-12-30,2419.0,0.4369580924855491,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+ADBE,492182.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ADCT,75088.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+ADI,514015.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ADM,512160.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ADP,513704.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ADSK,495965.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AEE,510191.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AEP,510843.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AES,510956.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AET,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+AFL,514599.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AIG,507146.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ALL,511746.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AM,176673.0,False,True,2017-05-04,2024-12-30,1927.0,0.3480852601156069,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+AMAT,518636.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AMCC,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+AMD,500250.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+AMGN,513047.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ANDW,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+ANTM,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+AON,509896.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+APA,509121.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+APC,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+APCC,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+APD,510075.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+APOL,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+ASH,507309.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+ASO,98024.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+AT,79.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+ATI,505535.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+AV,79.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+AVP,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+AVY,508028.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AW,79.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+AWE,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+AXP,510765.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+AYE,248999.0,False,True,2003-01-02,2017-01-11,2977.0,0.5377528901734104,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+AZO,471180.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BA,507597.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BAC,521418.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BAX,512275.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BBBY,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BBT,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BBY,512906.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BC,507251.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+BCR,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BDK,253718.0,False,True,2003-01-02,2017-03-13,3004.0,0.5426300578034682,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+BDX,510338.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BEN,515449.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BF-B,508130.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+BGEN,7274.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+BIG,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BJS,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BK,514262.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BLL,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BLS,343478.0,False,True,2003-01-02,2019-02-12,3785.0,0.6837066473988439,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+BMET,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BMS,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BMY,515908.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BNI,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BOL,298296.0,False,True,2003-01-02,2018-05-18,3745.0,0.6764812138728323,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+BR,412814.0,False,True,2007-03-22,2024-12-30,4475.0,0.8083453757225434,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+BRCM,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+BSC,336450.0,False,True,2003-01-14,2022-03-02,3956.0,0.7145953757225434,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+BSX,497064.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+BUD,355068.0,False,True,2009-07-01,2024-12-30,3901.0,0.7046604046242775,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+C,514326.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CA,23126.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+CAG,515487.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CAH,511608.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CAR,512003.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+CAT,511762.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CB,511866.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CBE,335157.0,False,True,2003-01-02,2018-01-30,3779.0,0.6826228323699421,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+CBS,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+CCL,512185.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CCTYQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+CCU,506474.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+CE,461891.0,False,True,2005-01-21,2024-12-30,5019.0,0.9066112716763006,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+CF,451568.0,False,True,2005-08-11,2024-12-30,4879.0,0.8813222543352601,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+CFC,153323.0,False,True,2003-01-09,2019-11-27,3808.0,0.6878612716763006,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+CHIR,117222.0,False,True,2018-12-07,2024-03-05,1318.0,0.2380780346820809,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+CI,513282.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CIEN,497837.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+CIN,270544.0,False,True,2003-01-02,2018-01-30,3796.0,0.6856936416184971,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+CINF,508719.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CL,510432.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CLX,509646.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CMA,511382.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+CMCSA,514629.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CMI,511923.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CMS,508942.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CMVT,233896.0,False,True,2003-01-02,2013-02-04,2540.0,0.4588150289017341,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+CNP,513024.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+COF,508710.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+COL,181173.0,False,True,2012-08-02,2020-11-30,2059.0,0.3719291907514451,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+COP,514132.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+COST,510576.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CPB,512544.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CPNLQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+CR,40445.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+CSCO,521245.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CSX,517254.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CTAS,509211.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CTB,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+CTL,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+CTX,11624.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+CTXS,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+CVG,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+CVS,510964.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+CVX,509730.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+D,511923.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+DALRQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+DCNAQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+DD,508643.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+DDS,506790.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+DE,510388.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+DG,351397.0,False,True,2009-11-13,2024-12-30,3806.0,0.6875,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+DGX,507839.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+DHR,514541.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,"excluded: suspected corporate-action artifact (+61% on 2016-07-05, around the Fortive spin-off)"
+DIS,514970.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+DJ,79.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+DLX,508598.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+DOV,511878.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+DPHIQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+DRI,512971.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+DTE,510404.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+DUK,510064.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+DVN,511902.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+DXC,512113.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+DYN,96007.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+EA,513671.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+EBAY,517280.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+EC,373985.0,False,True,2008-09-18,2024-12-30,4098.0,0.7402456647398844,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+ECL,511432.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ED,509364.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+EDS,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+EFX,510503.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+EHC,510343.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+EIX,511383.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+EKDKQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+EMN,508184.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+EMR,510561.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+EOG,509765.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+EOP,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+EP,475086.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+EQR,510748.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ETN,511984.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ETR,514741.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+EXC,516958.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+F,512371.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+FBF,303555.0,False,True,2003-01-02,2018-02-22,3244.0,0.5859826589595376,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+FCX,518259.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+FDC,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+FDO,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+FDX,509638.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+FE,515081.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+FHN,512551.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+FISV,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+FITB,515633.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+FLR,506551.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+FMCC,507591.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+FNMA,507706.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+FRX,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+FTR,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+G,404109.0,False,True,2007-08-02,2024-12-30,4383.0,0.7917268786127167,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+GD,512243.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+GDT,193972.0,False,True,2010-02-22,2022-03-02,3021.0,0.5457008670520231,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+GDW,289225.0,False,True,2003-03-05,2016-06-28,3047.0,0.5503973988439307,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+GE,512258.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+GENZ,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+GIS,512716.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+GLK,255385.0,False,True,2004-01-30,2017-03-13,2786.0,0.5032514450867052,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+GLW,516937.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+GP,95905.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+GPC,506807.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+GPS,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+GR,290929.0,False,True,2003-01-02,2018-02-22,3698.0,0.6679913294797688,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+GS,513890.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+GT,513058.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+GTW,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+GWW,505801.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HAL,516784.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HAS,508690.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HBAN,514451.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HCA,320488.0,False,True,2011-03-10,2024-12-30,3475.0,0.6277095375722543,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+HCR,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+HD,516093.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HES,509649.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HET,43834.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+HI,388336.0,False,True,2008-03-28,2024-12-30,4219.0,0.7621026011560693,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+HIG,510421.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HLT,256234.0,False,True,2013-12-12,2024-12-30,2780.0,0.5021676300578035,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+HMA,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+HNZ,295605.0,False,True,2003-01-02,2018-01-03,3503.0,0.6327673410404624,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+HOG,510989.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+HON,513466.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HPC,61653.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+HPQ,517543.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HRB,515249.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+HSY,508100.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+HUM,509146.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+IBM,512852.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+IFF,508410.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+IGT,516174.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+INTC,521225.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+INTU,510924.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+IP,515087.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+IPG,511695.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ITT,509678.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+ITW,512524.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+JBL,514759.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+JCI,513914.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,"excluded: suspected unadjusted corporate action (-53% on 2007-07-02, consistent with the 2-for-1 split)"
+JCP,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+JHF,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+JNJ,513235.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+JNS,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+JNY,253804.0,False,True,2003-01-02,2016-01-27,2837.0,0.5124638728323699,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+JP,79.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+JPM,517486.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+JWN,513515.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+K,511361.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+KATE,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+KBH,513695.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+KEY,515334.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+KLAC,511623.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+KMB,511340.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+KMG,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+KMI,329703.0,False,True,2011-02-11,2024-12-30,3493.0,0.6309609826589595,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+KO,519068.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+KR,511544.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+KRB,232846.0,False,True,2005-07-29,2017-03-13,2544.0,0.4595375722543353,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+KRI,270125.0,False,True,2006-08-02,2019-06-07,3232.0,0.5838150289017341,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+KSE,72336.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+KSS,515004.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+L,507795.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+LB,11706.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+LEG,511293.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+LEHMQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+LLTC,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+LLY,511247.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+LMT,509970.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+LNC,512225.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+LOW,515544.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+LPX,512087.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+LSI,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+LU,96675.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+LUV,514551.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+LXK,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+M,517744.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+MAR,513854.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MAS,512093.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MAT,512434.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+MAY,234141.0,False,True,2005-09-29,2018-03-14,2609.0,0.471278901734104,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+MBI,508297.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+MCD,511995.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MCK,511036.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MCO,509056.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MDP,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+MDR,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+MDT,508770.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MEDI,47757.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+MEL,110773.0,False,True,2008-11-06,2018-06-28,2056.0,0.3713872832369942,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+MER,12461.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+MERQ,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+MET,513399.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MIR,97039.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+MMC,513666.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MMM,510758.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MO,512872.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MOLX,248090.0,False,True,2003-01-02,2013-12-09,2754.0,0.497471098265896,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+MRK,515696.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MRO,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+MS,514622.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MSFT,520102.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MSI,509717.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MTG,510382.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+MTLQQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+MU,516102.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+MWV,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+MWW,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+MXIM,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+MYG,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+NAV,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+NBR,493523.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+NCC,195131.0,False,True,2012-05-03,2022-03-02,2342.0,0.42304913294797686,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+NCR,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+NEE,509187.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NEM,513817.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NFB,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+NI,513456.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NKE,512893.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NOC,509524.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NOVL,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+NSC,511684.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NTAP,513240.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NTRS,505711.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NUE,512423.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NVDA,537414.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+NWL,515735.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+NXTL,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+NYT,510446.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+ODP,502626.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+OMC,510308.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+OMX,242916.0,False,True,2003-01-02,2013-11-05,2731.0,0.4933164739884393,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+ONE,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+ORCL,517155.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+OXY,510845.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PAYX,514563.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PBG,261876.0,False,True,2004-08-03,2020-01-24,3340.0,0.6033236994219653,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+PBI,511999.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+PCAR,513695.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PCG,514037.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+PCS,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+PD,128539.0,False,True,2019-04-11,2024-12-30,1440.0,0.26011560693641617,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+PEG,512615.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PEP,510873.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PFE,520696.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PFG,510289.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PG,512422.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PGL,182208.0,False,True,2009-01-30,2017-09-25,2134.0,0.3854768786127168,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+PGR,515223.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PH,508305.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PHA,18071.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+PHM,513915.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PKI,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+PMCS,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+PNC,511350.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PNW,506568.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PPG,511876.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PPL,516978.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PRU,508857.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+PSFT,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+PTC,485388.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+PVN,160.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+PWER,24217.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+QCOM,516857.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+QLGC,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+QTRN,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+R,505902.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+RAI,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+RATL,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+RBK,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+RDC,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+RF,515963.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+RHI,509268.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+ROH,191714.0,False,True,2003-01-02,2018-01-04,3316.0,0.5989884393063584,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+ROK,508425.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+RRD,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+RTN,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+RX,5283.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+SAF,68271.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+SANM,489630.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+SBL,216634.0,False,True,2010-03-02,2022-03-02,2803.0,0.5063222543352601,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+SBUX,512222.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SCHW,513942.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SDS,425191.0,False,True,2006-07-13,2024-12-30,4648.0,0.8395953757225434,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+SEBL,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+SEE,512054.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+SFA,359673.0,False,True,2003-01-02,2019-06-07,4032.0,0.7283236994219653,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+SGP,153518.0,False,True,2008-01-08,2019-06-07,2734.0,0.4938583815028902,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+SHW,513229.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SIAL,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+SLB,511873.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SLM,513589.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+SLR,276809.0,False,True,2003-01-02,2018-06-28,3710.0,0.6701589595375722,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+SNA,509217.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SNV,509590.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+SO,513890.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SOTR,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+SPG,512289.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SPGI,510622.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SPLS,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+SRE,510867.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+STI,58894.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+STJ,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+STT,508216.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SVU,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+SWK,508827.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SWY,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+SYK,509614.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+SYY,512032.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+T,518554.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+TAP,508936.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+TE,110218.0,False,True,2020-01-10,2024-12-30,1251.0,0.22597543352601157,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+TEK,4343.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+TER,515127.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+TGNA,516127.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+TGT,512179.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+THC,494134.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+TIF,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+TIN,216647.0,False,True,2007-03-22,2018-01-31,2579.0,0.46585982658959535,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+TJX,510856.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+TLAB,244158.0,False,True,2003-01-02,2013-12-03,2750.0,0.4967485549132948,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+TMK,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+TMO,509829.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+TNB,273786.0,False,True,2007-05-02,2022-03-02,3543.0,0.639992774566474,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+TOY,33142.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+TRB,346382.0,False,True,2003-01-02,2018-08-08,3764.0,0.6799132947976878,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+TROW,510980.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+TRV,512262.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+TSG,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+TT,512776.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+TUP,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+TWX,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+TXN,516661.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+TXT,509180.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+TXU,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+UCL,99434.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+UIS,467567.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+UNH,512597.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+UNM,514684.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+UNP,513053.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+UPC,48378.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+UPS,508123.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+USB,516430.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+UST,335134.0,False,True,2010-02-02,2024-12-30,3753.0,0.6779263005780347,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+UTX,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+UVN,322858.0,False,True,2003-01-02,2018-01-30,3506.0,0.6333092485549133,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+VFC,510407.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+VIAV,505180.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+VMC,508381.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+VRTS,364755.0,False,True,2009-01-02,2024-12-30,4025.0,0.7270592485549133,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+VSTNQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+VZ,519860.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+WAMUQ,40193.0,False,False,,,,,"excluded: Drive file under 100 KB (about a year or less of history), not downloaded"
+WAT,487994.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+WB,248001.0,False,True,2014-04-17,2024-12-30,2694.0,0.4866329479768786,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+WBA,514080.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+WEN,510455.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+WFC,518016.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+WHR,509575.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+WLP,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+WM,514352.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+WMB,514870.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+WMT,522017.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+WNDXQ,97.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+WOR,506528.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+WWY,128801.0,False,True,2010-10-13,2016-06-22,1423.0,0.25704479768786126,excluded: partial history (starts late or ends early; listing and dates in the audit table)
+WY,515917.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+WYE,85.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+X,515235.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+XEL,511440.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+XLNX,91.0,False,False,,,,,"excluded: no data returned by Yahoo Finance (empty file; delisted, acquired or renamed)"
+XOM,514994.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+XRX,517686.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
+YUM,512570.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ZBH,509850.0,True,True,2003-01-02,2024-12-30,5536.0,1.0,panel
+ZION,511400.0,False,True,2003-01-02,2024-12-30,5536.0,1.0,excluded: full price history but not a continuous index member (left the index or symbol identity uncertain)
