@@ -41,3 +41,7 @@ The full analysis needs the price panel, which is not redistributed. `data/READM
 ## Limitations
 
 A survivor panel (no delisted names or delisting returns), Yahoo adjusted prices rather than an institutional source, sector labels that are not point-in-time before 2024, one universe, one lookback and one rebalance frequency in the portfolio check. See `METHODOLOGY.md`, sections 7 and 8.
+
+## Licence
+
+The code is released under the MIT licence (`LICENSE`). Third-party data keep their own terms: the constituents history of [hanshof/sp500_constituents](https://github.com/hanshof/sp500_constituents) and [datasets/s-and-p-500-companies](https://github.com/datasets/s-and-p-500-companies), and Yahoo Finance prices, which are not redistributed here.
