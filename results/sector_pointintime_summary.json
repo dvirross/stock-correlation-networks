@@ -1,0 +1,9 @@
+{
+  "windows": 252,
+  "windows_with_dated_labels": 144,
+  "max_abs_difference_dated_windows": 0.054455445544554504,
+  "mean_difference_dated_windows": 0.0068069306930693095,
+  "dated_series_min": 0.6485148514851485,
+  "dated_series_max": 0.7920792079207921,
+  "reproduces_published_series_max_abs_gap": 4.851485148504864e-06
+}

@@ -1,0 +1,7 @@
+window,end,mst_same_sector_end2024,mst_same_sector_dated,labels_dated
+Calm 2007,2007-06-29,0.6535,0.6683,False
+Crisis 2008,2008-12-31,0.7426,0.7426,False
+Calm 2017,2017-12-29,0.7673,0.7723,True
+COVID 2020,2020-06-30,0.6535,0.6634,True
+Rates 2022,2022-12-30,0.7327,0.7376,True
+Latest 2024,2024-12-30,0.7129,0.7129,True
