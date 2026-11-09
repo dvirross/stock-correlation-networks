@@ -15,8 +15,10 @@ Writes tool-data/ (all JSON, compact):
                            article, stocknet.networks.communities)
   bootstrap/<end>.json     300 joint moving-block bootstrap MSTs (21-day blocks, seed 20241230, the article's settings) of the
                            windows ending 2024-12-30 and 2008-12-31, as index pairs, plus the original MST
-  checks.json              validations: 2024 bootstrap inclusion reproduces results/bootstrap_edge_inclusion_mst.csv; the 2024
-                           matrix reproduces the headline MST in results/headline_graph_edges.csv
+  checks.json              validations: 2024 bootstrap inclusion reproduces results/bootstrap_edge_inclusion_mst.csv (that file
+                           is rounded to 4 decimals and the frequencies are multiples of 1/300, so the expected gap is at most
+                           1/30000 = 0.0000333, the rounding error); the 2024 matrix reproduces the headline MST in
+                           results/headline_graph_edges.csv
 
 Only derived statistics are written; no price or return series. Standard rounding to 3 decimals is enough for the tools
 (the article's figures use the full-precision results).
