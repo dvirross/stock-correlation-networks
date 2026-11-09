@@ -45,3 +45,7 @@ A survivor panel (no delisted names or delisting returns), Yahoo adjusted prices
 ## Licence
 
 The code is released under the MIT licence (`LICENSE`). Third-party data keep their own terms: the constituents history of [hanshof/sp500_constituents](https://github.com/hanshof/sp500_constituents) and [datasets/s-and-p-500-companies](https://github.com/datasets/s-and-p-500-companies), and Yahoo Finance prices, which are not redistributed here.
+
+## Data for the interactive tools
+
+`scripts/export_tool_data.py` writes `tool-data/` from the private price panel: yearly correlation matrices (2004–2024, rounded to 3 decimals), MST and PMFG edges with communities, and 300 bootstrap MSTs for the windows ending 2008 and 2024. These are derived statistics only, used by the interactive tools on dvirross.com; `tool-data/checks.json` records that they reproduce the published results.
